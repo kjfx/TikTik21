@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/kjfx/TikTik21/main/%E7%99%BB%E5%BD%95%E7%BE%8E%E5%8C%BAAppleID%E8%AF%B4%E6%98%8E.png" />
 
-#### 3、登录美区AppleID之后，任意下载一个免费的APP，再打开TikTok就不会闪退了<br><br>
+#### 3、登录美区AppleID之后，任意下载一款免费的APP，再打开TikTok就不会闪退了<br><br>
 
 ## 第三步：接下来需要在Shadowrocket添加配置代码
 接下来的操作请看这个教程：https://youtu.be/a0dpTOqV5jk?t=786
